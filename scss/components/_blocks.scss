@@ -1,0 +1,50 @@
+// Blocks
+.block {}
+.block-title {}
+.block-content {}
+
+// Drupal sytem blocks:
+// .block-search {}
+// .block-system {}
+
+// Custom blocks
+.view-display-id-anchor_block {
+  
+  .link-list {
+    
+    li {
+      margin-bottom: 0;
+    }
+    
+    a {
+      color: #fff;
+      display: block;
+      font-size: 0.8125em;
+      font-weight: bold;
+    }
+    
+  }
+  
+}
+
+.view-display-id-sections_block {
+  
+  .views-row-odd {
+    
+    .field-name-field-section-image {
+      float: left;
+      padding: 0 20px 10px 0;
+    }
+    
+  }
+  
+  .views-row-even {
+    
+    .field-name-field-section-image {
+      float: right;
+      padding: 0 0 10px 20px;
+    }
+    
+  }
+  
+}

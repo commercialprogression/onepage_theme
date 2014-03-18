@@ -1,0 +1,27 @@
+// Non-modular or client styles for .l-header region.
+
+.l-header {}
+
+// Top Bar
+//--------------------------------------------------
+.top-bar {
+  
+  .title-area {
+    
+    .name {
+      background: url('../logo.png') no-repeat center;
+      padding-left: 50px;
+      
+      a {
+        text-indent: -9999px;
+      }
+      
+    }
+    
+  }
+  
+}
+
+.top-bar-section {}
+.top-bar-section .left {}
+.top-bar-section .right {}
