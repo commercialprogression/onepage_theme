@@ -7369,7 +7369,7 @@ a.th {
 /* line 3, ../scss/layout/_main.scss */
 .l-main {
   margin-bottom: 200px;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 /* line 15, ../scss/components/_blocks.scss */
@@ -7385,12 +7385,16 @@ a.th {
   padding: 15px;
 }
 
-/* line 35, ../scss/components/_blocks.scss */
+/* line 31, ../scss/components/_blocks.scss */
+.view-display-id-sections_block {
+  padding-top: 25px;
+}
+/* line 36, ../scss/components/_blocks.scss */
 .view-display-id-sections_block .views-row-odd .field-name-field-section-image {
   float: left;
   padding: 0 20px 10px 0;
 }
-/* line 44, ../scss/components/_blocks.scss */
+/* line 45, ../scss/components/_blocks.scss */
 .view-display-id-sections_block .views-row-even .field-name-field-section-image {
   float: right;
   padding: 0 0 10px 20px;
