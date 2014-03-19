@@ -22,6 +22,11 @@
       font-size: 0.8125em;
       font-weight: bold;
 			padding: 15px;
+      
+      &.selected {
+        color: #0099FF;
+      }
+      
     }
     
   }
